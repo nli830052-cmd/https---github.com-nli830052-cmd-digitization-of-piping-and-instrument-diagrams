@@ -1,5 +1,33 @@
+# Thesis/Research data
 P&ID논문/
+
+# Environments
 venv/
-*.pyc
-__pycache__/
 .env
+.venv
+env/
+
+# Python Byte-compiled/optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Unit test / coverage reports
+.pytest_cache/
+.coverage
+htmlcov/
+
+# VSCode settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
